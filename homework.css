@@ -1,0 +1,171 @@
+/** @format */
+
+.page-container {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+}
+.nav-image {
+  width: 150px;
+  height: 50px;
+  margin: 0px 20px 0px 0px;
+}
+body {
+  background: rgba(27, 55, 100, 1);
+}
+body * {
+  font-weight: 20;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.link-container a {
+  color: white;
+}
+.image-container {
+  height: 45px;
+  width: 350px;
+  left: 0px;
+  top: 2.5px;
+  border-radius: 0px;
+}
+
+.social-images {
+  margin: 0px 10px 0px 0px;
+}
+.Cart {
+  width: 22px;
+  height: 21px;
+  background-color: rgba(27, 55, 100, 1);
+  filter: contrast(100%);
+}
+a:hover {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 500px;
+  position: relative;
+  left: 23px;
+}
+.link-container a {
+  margin-top: 15px;
+}
+button.button {
+  color: black;
+  background: rgba(255, 202, 66, 1);
+  padding: 13px 33px 13px 33px;
+}
+
+.content-container {
+  width: 80%;
+  margin-top: 140px;
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  height: 1px;
+}
+
+h1 {
+  color: white;
+  width: 614px;
+  font-size: 65px;
+  margin: 0;
+}
+
+.welcome {
+  color: white;
+  font-style: italic;
+  position: relative;
+  bottom: 7px;
+  margin-left: 15px;
+}
+.all-container {
+  display: flex;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+.welcome-container {
+  display: flex;
+}
+
+.content-picture {
+  margin-top: 150px;
+  width: 500px;
+  height: 700px;
+}
+
+.A-lot-words {
+  margin-top: 32px;
+  width: 575px;
+  font-size: 19px;
+  color: rgba(180, 199, 231, 1);
+  margin-bottom: 69px;
+}
+
+.order-button {
+  height: 65px;
+  width: 220px;
+  padding: 20px 53px 21px 53px;
+  background: rgba(255, 202, 66, 1);
+}
+
+.order-button p {
+  height: 24px;
+  width: 114px;
+  position: relative;
+  bottom: 20px;
+  font-size: 19px;
+}
+.button-container {
+  display: flex;
+}
+
+.Free-demo {
+  margin-left: 94px;
+}
+
+.Free-demo a {
+  position: relative;
+  top: 20px;
+  border-bottom: solid white 1px;
+  color: white;
+}
+.yellow-circle {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: rgba(255, 202, 66, 1);
+  position: relative;
+  top: 45px;
+  right: 25px;
+}
+
+.bullet-point-container {
+  margin-top: 56px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+h3 {
+  color: white;
+  font-size: 24px;
+}
+
+.bullet-point p {
+  font-size: 18px;
+  color: rgba(180, 199, 231, 1);
+}
